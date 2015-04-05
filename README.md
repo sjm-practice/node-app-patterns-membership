@@ -1,11 +1,22 @@
 # (code along practice) Pluralsight - Node Application Patterns
-Course Progess: Understanding Modules, 1:53
+Course Progess: Part 3, Section 2 - A Pattern Discussion, 3:00
 
 ## Notes / Items Learned...
 * Introduced to Grunt. (had always just laboriously worked around needing that before)
 * Basic node project folder structure
     - additional explanations of modules and organizing them
+* Javascript Coding Design Patterns
+    - Constructor Pattern, use new and write create/initialization code 
+    - Factory Pattern, explicit function call to create an object, with create/initialization code 
 
+## Todo
+* Read / Understand Javascript design patterns 
+    - Addy Osmani, Learning Javascript Design Patterns (especially...)
+    - Module
+    - Revealing Module 
+    - Prototype
+    - JavaScript Namespacing Patterns 
+* 
 
 ## Course Feedback / Comments
 * If you are most interested in node patterns, you can for the most part skip the first one and a half modules. These cover a lot of workflow and tools, such as editors and grunt.
